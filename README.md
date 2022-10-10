@@ -10,6 +10,8 @@ and also under some organisations such as [@ibanimatable](https://github.com/iba
 
 For 4d back end dev you can follow me as [@mesopelagique](https://github.com/mesopelagique) 🐙
 
+[![Github](https://img.shields.io/github/followers/phimage?label=Followers&style=social)](https://github.com/phimage)
+
 ## Sponsorship ❤️
 
 If you or your company has capitalised on my work, please consider sponsoring, any amount really helps.
@@ -21,3 +23,5 @@ If you or your company has capitalised on my work, please consider sponsoring, a
 [![Mail](http://img.shields.io/badge/Mail-orange.svg?style=flat)](mailto:eric.marchand.n7@gmail.com) [![Twitter](http://img.shields.io/badge/Twitter-25A1F2.svg?style=flat)](https://twitter.com/phimageio) [![LinkedIn](http://img.shields.io/badge/LinkedIn-1977B5.svg?style=flat)](https://www.linkedin.com/in/eric-marchand-n7/) 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phimage&theme=dark&langs_count=3&hide_title=true&hide_border=true)
