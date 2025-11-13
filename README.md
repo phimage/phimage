@@ -3,14 +3,21 @@
 I'm Eric Marchand, a free (open-source) software writer by night🌛.
 
 Here on github I have worked mainly on projects written in Swift :bird:
-But I am also a java :coffee: , php :elephant: and python :snake: enthusiastic coder.
+But I am also a python :snake:, c++ :gear:, java :coffee: and php :elephant: enthusiastic coder.
 
 You can find my work here on GitHub under my profile [@phimage](https://github.com/phimage) 🧙
 and also under some organisations such as [@ibanimatable](https://github.com/ibanimatable), [@ibdecodable](https://github.com/ibdecodable) and [@oauthswift](https://github.com/OAuthSwift)
 
-For 4d back end dev you can follow me as [@mesopelagique](https://github.com/mesopelagique) 🐙
+For 4d back end dev you can follow me as [@mesopelagique](https://github.com/mesopelagique) 🐙 (personal) and [@e-marchand](https://github.com/e-marchand) 💼 (professional)
 
 [![Github](https://img.shields.io/github/followers/phimage?label=Followers&style=social)](https://github.com/phimage)
+
+## Interests 🔬
+
+I'm passionate about:
+- 🤖 Artificial Intelligence and Machine Learning
+- 🧠 Large Language Model (LLM), fine-tuning and optimization
+- 📊 Data science and analytics
 
 ## Sponsorship ❤️
 
